@@ -34,7 +34,7 @@ public class FigureFormatException extends Exception {
         this.lineNumber = lineNumber;
     }
 
-    /** Номер строки с ошибкой или {@link #NO_LINE}. */
+    /** Номер строки с ошибкой ил {@link #NO_LINE}. */
     public int getLineNumber() {
         return lineNumber;
     }
