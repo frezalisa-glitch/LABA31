@@ -1,0 +1,22 @@
+# Результаты компиляции
+build/
+out/
+*.class
+
+# Бинарные файлы, создаваемые программой
+*.bin
+
+# Служебные файлы IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Прочее
+.DS_Store
+Thumbs.db
+
+# Список исходников для javac на Windows
+sources.txt
